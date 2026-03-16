@@ -1,6 +1,6 @@
 # Nuclear Fusion Open Source projects
 
-I have initiated this repository to collect (and maintain?) a list of open-source projects related to (magnetic) Nuclear Fusion. 
+I have initiated this repository to collect (and maintain?) a list of open-source projects related to (magnetic) Nuclear Fusion.
 
 *Disclaimer*: At the moment, the list is "what I remembered". But I would like to accept any reasonable suggestions.
 
@@ -12,7 +12,7 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**ToFu**](https://github.com/ToFuProject) ![GitHub User's stars](https://img.shields.io/github/stars/ToFuProject?style=flat&label=%E2%AD%90)Project for an open-source Python library for synthetic diagnostics and tomography for Fusion devices
 * [**Aurora**](https://github.com/fsciortino/Aurora) ![GitHub User's stars](https://img.shields.io/github/stars/fsciortino/Aurora?style=flat&label=%E2%AD%90): Modern toolbox for impurity transport, neutrals and radiation modeling in magnetically-confined plasmas
 * [**FreeGS**](https://github.com/freegs-plasma/freegs) ![GitHub User's stars](https://img.shields.io/github/stars/freegs-plasma/freegs?style=flat&label=%E2%AD%90): Equilibrium framework with freeboundary Grad-Shafranov equation solver.
-* [**FreeGSNKE**](https://github.com/FusionComputingLab/freegsnke) ![GitHub User's stars](https://img.shields.io/github/stars/FusionComputingLab/freegsnke?style=flat&label=%E2%AD%90): The code based on FreeGS with implemented direct and evolution mode for solving G-S equation. (Free-boundary Grad-Shafranov Newton-Krylov Evolve)  
+* [**FreeGSNKE**](https://github.com/FusionComputingLab/freegsnke) ![GitHub User's stars](https://img.shields.io/github/stars/FusionComputingLab/freegsnke?style=flat&label=%E2%AD%90): The code based on FreeGS with implemented direct and evolution mode for solving G-S equation. (Free-boundary Grad-Shafranov Newton-Krylov Evolve)
 * [**PLEQUE**](https://github.com/kripnerl/pleque) ![GitHub User's stars](https://img.shields.io/github/stars/kripnerl/pleque?style=flat&label=%E2%AD%90): Framework for easy equilibrium manipulation.
 * [**DESC**](https://github.com/PlasmaControl/DESC) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/DESC?style=flat&label=%E2%AD%90): Stellarator Optimization Package
 * [**KSTAR-NN**](https://github.com/jaem-seo/KSTAR_tokamak_simulator) ![GitHub User's stars](https://img.shields.io/github/stars/jaem-seo/KSTAR_tokamak_simulator?style=flat&label=%E2%AD%90): KSTAR tokamak simulator
@@ -33,19 +33,19 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**STRUPHY**](https://github.com/struphy-hub/struphy/) ![GitHub User's stars](https://img.shields.io/github/stars/struphy-hub/struphy?style=flat&label=%E2%AD%90): STRUPHY, a structure preserving hybrid code written in Python.
 * [**SPEC**](https://github.com/PrincetonUniversity/SPEC) ![GitHub User's stars](https://img.shields.io/github/stars/PrincetonUniversity/SPEC?style=flat&label=%E2%AD%90): The Stepped-Pressure Equilibrium Code, an advanced MRxMHD equilibrium solver.
 * [**simsopt**](https://github.com/hiddenSymmetries/simsopt) ![GitHub User's stars](https://img.shields.io/github/stars/hiddenSymmetries/simsopt?style=flat&label=%E2%AD%90): Simons Stellarator Optimizer Code
-* [**Stellarator-Tools**](https://github.com/ORNL-Fusion/Stellarator-Tools) ![GitHub User's stars](https://img.shields.io/github/stars/ORNL-Fusion/Stellarator-Tools?style=flat&label=%E2%AD%90): This is an umbrella project for the stellarator community tools. 
+* [**Stellarator-Tools**](https://github.com/ORNL-Fusion/Stellarator-Tools) ![GitHub User's stars](https://img.shields.io/github/stars/ORNL-Fusion/Stellarator-Tools?style=flat&label=%E2%AD%90): This is an umbrella project for the stellarator community tools.
 * [**SIMPLE**](https://github.com/itpplasma/SIMPLE) ![GitHub User's stars](https://img.shields.io/github/stars/itpplasma/SIMPLE?style=flat&label=%E2%AD%90): Symplectic Integration Methods for Particle Loss Estimation
 * [**BIEST**](https://github.com/dmalhotra/BIEST) ![GitHub User's stars](https://img.shields.io/github/stars/dmalhotra/BIEST?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
 * [**GVEC**](https://gitlab.mpcdf.mpg.de/gvec-group/gvec): Galerkin Variational Equilibrium Code - an open-source software for the generation of three-dimensional ideal MHD equilibria
-* [**ASCOT5**](https://github.com/ascot4fusion/ascot5) ![GitHub User's stars](https://img.shields.io/github/stars/ascot4fusion/ascot5?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
-* [**XICSRT**](https://github.com/PrincetonUniversity/xicsrt) ![GitHub User's stars](https://img.shields.io/github/stars/PrincetonUniversity/xicsrt?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
-* [**FILDSIM**](https://github.com/JoseRuedaRueda/uFILDSIM) ![GitHub User's stars](https://img.shields.io/github/stars/JoseRuedaRueda/uFILDSIM?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
-* [**TANGO**](https://github.com/llnl/tango) ![GitHub User's stars](https://img.shields.io/github/stars/llnl/tango?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
-* [**ESSOS**](https://github.com/uwplasma/ESSOS) ![GitHub User's stars](https://img.shields.io/github/stars/uwplasma/ESSOS?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
+* [**ASCOT5**](https://github.com/ascot4fusion/ascot5) ![GitHub User's stars](https://img.shields.io/github/stars/ascot4fusion/ascot5?style=flat&label=%E2%AD%90): High-performance orbit-following code for fusion plasma physics and engineering.
+* [**XICSRT**](https://github.com/PrincetonUniversity/xicsrt) ![GitHub User's stars](https://img.shields.io/github/stars/PrincetonUniversity/xicsrt?style=flat&label=%E2%AD%90): General purpose, photon based, scientific raytracing code intended for both optical and x-ray raytracing.
+* [**FILDSIM**](https://github.com/JoseRuedaRueda/uFILDSIM) ![GitHub User's stars](https://img.shields.io/github/stars/JoseRuedaRueda/uFILDSIM?style=flat&label=%E2%AD%90): FILD and INPA diagnostic simulator
+* [**TANGO**](https://github.com/llnl/tango) ![GitHub User's stars](https://img.shields.io/github/stars/llnl/tango?style=flat&label=%E2%AD%90): Transport solver intended for coupling with codes that return turbulent fluxes.
+* [**ESSOS**](https://github.com/uwplasma/ESSOS) ![GitHub User's stars](https://img.shields.io/github/stars/uwplasma/ESSOS?style=flat&label=%E2%AD%90): e-Stellarator Simulation and Optimization Suite
 
-## Tags to search: 
+## Tags to search:
 
-It is not easy to find fusion-related material since most keywords in the field have multiple meanings: `plasma`, `fusion`, `nuclear`, etc. Moreover, most projects do not use tags at all. 
+It is not easy to find fusion-related material since most keywords in the field have multiple meanings: `plasma`, `fusion`, `nuclear`, etc. Moreover, most projects do not use tags at all.
 
 * [`stellarator`](https://github.com/topics/stellarator)
 * [`stellarators`](https://github.com/topics/stellarators)
@@ -53,7 +53,7 @@ It is not easy to find fusion-related material since most keywords in the field 
 * [`tokamaks`](https://github.com/topics/tokamak)
 * [`nuclear-fusion`](https://github.com/topics/nuclear-fusion)
 * [`plasma`](https://github.com/topics/plasma): Beware of bloody KDE :smile:.
-* [`fusion`](https://github.com/topics/fusion) 
+* [`fusion`](https://github.com/topics/fusion)
 
 
 ## Notes:
