@@ -62,6 +62,7 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 ## Fast ions / particle orbits / particle loss
 * [**ASCOT5**](https://github.com/ascot4fusion/ascot5) ![GitHub User's stars](https://img.shields.io/github/stars/ascot4fusion/ascot5?style=flat&label=%E2%AD%90): High-performance orbit-following code for fusion plasma physics and engineering.
 * [**SIMPLE**](https://github.com/itpplasma/SIMPLE) ![GitHub User's stars](https://img.shields.io/github/stars/itpplasma/SIMPLE?style=flat&label=%E2%AD%90): Symplectic Integration Methods for Particle Loss Estimation
+* [**BEAMS3D**](https://princetonuniversity.github.io/STELLOPT/BEAMS3D) ![GitHub User's stars](https://img.shields.io/github/stars/PrincetonUniversity/STELLOPT?style=flat&label=%E2%AD%90): High-performance orbit-following code contained in STELLOPT.
 
 ## Diagnostics, synthetic diagnostics, ray-tracing, spectroscopy, tomography
 **Synthetic diagnostics / tomography**
